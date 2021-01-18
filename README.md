@@ -1,4 +1,4 @@
-# 星合のding
+# Fanchang DING
 
 欢迎访问我的个人主页！下面向你介绍一下我自己吧\~
 
@@ -6,17 +6,16 @@
 
 ## Contact
 
-- Address: **Sun Yat-sen University - 132 Waihuan East Rd. - Guangzhou, China**
-- Phone: **+86 18756280097**
-- Site: **<https://wu-kan.cn>**
+- Address: **杭州电子科技大学 - 杭州 - 浙江**
+- Phone: **+86 19966516007**
+- Site: **<https://dingfanchang.cn>**
 
 <!-- .slide vertical=true -->
 
 - E-mail:
-  - **[i@wu-kan.cn](mailto:i@wu-kan.cn)**
-  - **[wukan3@mail2.sysu.edu.cn](mailto:wukan3@mail2.sysu.edu.cn)**
-- WeChat: **Wu-\_-Kan**
-- QQ: **942759535**
+  - **[gloomydfc@qq.com]**
+- WeChat: **H_L_W_L**
+- QQ: **545871235**
 
 <!-- .slide -->
 
@@ -24,7 +23,7 @@
 
 <!-- .slide vertical=true -->
 
-School of Data and Computer Science, Sun Yat-sen University, Guangzhou
+人工智能学院, 杭州电子科技大学, 杭州
 
 - Bachelor of Computer Science (Supercomputer Class), Sept. 2017 - Jul. 2021(expected)
   - Principle of Supercomputer
